@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - Entry point
- *
+ * main - You can only use the putchar function (every other function
+ *(printf, puts, etc…) is forbidden)
  * Return: Always 0 (Success)
  */
 
