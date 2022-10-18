@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints _putchar followed by a newline
+ * main - prints putchar followed by a newline
  * Return: returns 0
  */
 int main(void)
@@ -10,7 +10,7 @@ int main(void)
 	int i;
 
 	for (i = 0; i < 8; i++)
-		_putchar(str[i]);
+		_putchar(str[1]);
 
 	_putchar('\n');
 
